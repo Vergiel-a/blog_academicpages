@@ -7,8 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[Clique aqui para acessar meu currículo](https://vergiel-a.github.io/files/Profile.pdf)
-
-
+<iframe src="/files/Profile.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
