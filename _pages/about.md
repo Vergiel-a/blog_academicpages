@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Análise de dados econômicos e financeirs Luiz Henrique Barbosa Filho"
+title: "Luiz Henrique Barbosa Filho - Portfólio de um cientista de dados econômicos e financeiros"
 author_profile: true
 redirect_from: 
   - /about/
