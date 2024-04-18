@@ -1,6 +1,6 @@
 ---
 title: "Construindo gráficos com o Plotnine"
-excerpt: "Neste exercício, vamos criar gráficos com a biblioteca plotnine do Python <br/><img src='images/posts/graficos/output_9_0.png'>"
+excerpt: "Neste exercício, vamos criar gráficos com a biblioteca plotnine do Python <br/><img src='/images/posts/graficos/output_9_0.png'>"
 collection: [gráficos, python, plotnine]
 date: 18/04/2024
 toc: true
