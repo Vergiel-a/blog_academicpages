@@ -195,7 +195,7 @@ Com os dados em mãos, devemos definir cada etapa do processo de criação do gr
 
 
     
-![png](images/posts/graficos/output_5_0.png)
+![](/images/posts/graficos/output_5_0.png)
     
 
 
@@ -209,9 +209,7 @@ Veja que o resultado está mapeando os dados; entretanto, ainda faltam alguns el
   )
 ```
 
-
-    
-![png](images/posts/graficos/output_7_0.png)
+![png](/images/posts/graficos/output_7_0.png)
     
 
 
@@ -232,7 +230,7 @@ Podemos continuar definindo elementos estatísticos adicionais. No caso, constru
 
 
     
-![png](images/posts/graficos/output_9_0.png)
+![png](/images/posts/graficos/output_9_0.png)
     
 
 
