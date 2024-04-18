@@ -21,7 +21,7 @@ repository               : "Vergiel-a/Vergiel-a.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/luiz.jpg"
+  avatar           : "luiz.jpg"
   name             : "Luiz Henrique"
   pronouns         : 
   bio              : "Cientista de Dados na Análise Macro"
