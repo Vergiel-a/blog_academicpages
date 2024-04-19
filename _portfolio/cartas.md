@@ -4,9 +4,6 @@ excerpt: "Neste artigo mostramos como usar um modelo LLM para ler e sumarizar as
 date: 18/04/2024
 ---
 
-
-# Lendo as cartas dos gestores com IA usando Python
-
 **autor: Fernando da Silva**
 
 O que os gestores de fundos de investimentos pensam sobre os mercados e sobre a economia? Todo mês, dezenas de gestores publicam suas cartas relatando sua visão, desempenho e outras informações relevantes para os cotistas. No entanto, ler estes relatórios pode facilmente tomar 1 dia inteiro ou mais de trabalho. Para economizar este tempo, podemos utilizar inteligência artificial e sumarizar os principais tópicos do documento em poucos segundos!
