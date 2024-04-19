@@ -1,3 +1,11 @@
+---
+title: "Lendo as cartas dos gestores com IA usando Python"
+excerpt: "Neste artigo mostramos como usar um modelo LLM para ler e sumarizar as "Cartas do Gestor", publicadas em fundos de investimento no Brasil. Em menos de 60 linhas de código, criamos uma aplicação completa em Python que pega um arquivo PDF da carta do gestor, processa os dados e usa inteligência artificial para sumarizar os pontos chave do texto.
+ <br/><img src='/images/portfolio/cartas/app.png'>"
+date: 18/04/2024
+---
+
+
 # Lendo as cartas dos gestores com IA usando Python
 
 **autor: Fernando da Silva**
