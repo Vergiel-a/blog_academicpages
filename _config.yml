@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "Luiz H. Portfólio"
+title                    : "Luiz H. - Portfólio"
 title_separator          : "-"
 name                     : &name "Luiz H. Barbosa F."
 description              : &description "Cientista de Dados"
