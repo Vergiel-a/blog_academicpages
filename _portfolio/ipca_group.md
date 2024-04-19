@@ -1,4 +1,8 @@
-# Analisando os grupos do IPCA com o Python
+---
+title: "Analisando os grupos do IPCA com o Python"
+excerpt: "Neste artigo mostramos como coletar dados de inflação segmentados por faixa de renda e como calcular a variação acumulada em 12 meses usando a linguagem de programação Python. <br/><img src='/images/portfolio/ipca_group/output_10_0.png'>"
+date: 18/04/2024
+---
 
 **autor: Luiz Henrique**
 
@@ -1293,12 +1297,6 @@ colors = {'blue': '#282f6b',
     
 ![png](/images/portfolio/ipca_group/output_10_0.png)
     
-
-
-
-
-
-    <Figure Size: (1400 x 600)>
 
 
 
