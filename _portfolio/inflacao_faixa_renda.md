@@ -2,7 +2,6 @@
 title: "Analisando a inflação por faixa de renda no Python"
 excerpt: "Neste artigo mostramos como coletar dados de inflação segmentados por faixa de renda e como calcular a variação acumulada em 12 meses usando a linguagem de programação Python. <br/><img src='/images/portfolio/inflacao_faixa_renda/output_3_1.png'>"
 date: 18/04/2024
-author: "Fernado da Silva"
 ---
 
 **autor: Fernando da Silva**
