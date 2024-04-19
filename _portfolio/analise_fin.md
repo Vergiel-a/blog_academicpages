@@ -4,9 +4,6 @@ excerpt: "Praticar análise de dados com uma linguagem de programação pode par
 date: 18/04/2024
 ---
 
-
-# Como analisar dados financeiros com o Python? Um guia para quem deseja sair do Excel
-
 **autor: Luiz Henrique**
 
 Praticar análise de dados com uma linguagem de programação pode parecer intimidante, mas não é. Neste post, apresentamos os resultados de um exercício de Python voltado para finanças, demonstrando um gráfico útil para profissionais do mercado financeiro.
