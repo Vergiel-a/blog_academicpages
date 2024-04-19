@@ -1,3 +1,10 @@
+---
+title: "Como analisar dados financeiros com o Python? Um guia para quem deseja sair do Excel"
+excerpt: "Praticar análise de dados com uma linguagem de programação pode parecer intimidante, mas não é. Neste post, apresentamos os resultados de um exercício de Python voltado para finanças, demonstrando um gráfico útil para profissionais do mercado financeiro. <br/><img src='/images/portfolio/analise_fin/output_6_0.png'>"
+date: 18/04/2024
+---
+
+
 # Como analisar dados financeiros com o Python? Um guia para quem deseja sair do Excel
 
 **autor: Luiz Henrique**
